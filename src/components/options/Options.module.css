@@ -1,0 +1,12 @@
+.btn-container {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
